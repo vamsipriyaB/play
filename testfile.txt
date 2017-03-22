@@ -1,1 +1,1 @@
-This is a test file for play repo::
+This is a test file for play repository
